@@ -1,4 +1,5 @@
-## proxy-server
-什麼是proxy
+# proxy-server
+
+## 什麼是proxy
 HTTP代理伺服器
 主要用於存取網頁，一般有內容過濾和快取功能。埠一般為80、8080、3128等。
